@@ -102,15 +102,57 @@ To design and implement a modular and scalable automation testing framework usin
 ## 📁 9. Project Structure
 
 ```plaintext
-src/
+selenium-bstack-demo/
+│
+├── pom.xml
+├── testng.xml
+├── README.md
+├── .gitignore
+│
+├── src/
+│
 ├── main/java/
+│   ├── base/
+│   │   ├── BaseTest.java
+│   │   ├── DriverFactory.java
+│   │
 │   ├── pages/
-│   └── utils/
+│   │   ├── LoginPage.java
+│   │   ├── ProductPage.java
+│   │   ├── CartPage.java
+│   │   ├── CheckoutPage.java
+│   │
+│   ├── utils/
+│   │   ├── ConfigReader.java
+│   │   ├── WaitUtils.java
+│   │   ├── ScreenshotUtils.java
+│   │   ├── TestDataUtils.java
+│   │
+│   ├── constants/
+│   │   ├── FrameworkConstants.java
+│
+│
 ├── test/java/
 │   ├── tests/
-│   └── testng.xml
-```
-
+│   │   ├── LoginTest.java
+│   │   ├── ProductTest.java
+│   │   ├── CartTest.java
+│   │   ├── CheckoutTest.java
+│   │
+│   ├── listeners/
+│   │   ├── TestListener.java
+│   │
+│   ├── retry/
+│   │   ├── RetryAnalyzer.java
+│
+├── src/test/resources/
+│   ├── testdata/
+│   │   ├── testdata.json
+│   │
+│   ├── config.properties
+│   ├── log4j2.xml
+│
+└── screenshots/
 ---
 
 ## ▶️ 10. Execution
