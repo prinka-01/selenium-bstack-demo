@@ -1,0 +1,25 @@
+<suite name="Cross Browser Suite">
+
+    <parameter name="browser" value="chrome"/>
+
+    <test name="Regression Test">
+
+        <classes>
+
+            <class name="com.bstackdemo.automation.tests.LoginTest">
+                <methods>
+                    <exclude name="invalidLoginTest"/>
+                </methods>
+            </class>
+
+            <class name="com.bstackdemo.automation.tests.ProductPageTest"/>
+
+            <class name="com.bstackdemo.automation.tests.CartTest"/>
+
+            <class name="com.bstackdemo.automation.tests.CheckoutTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>

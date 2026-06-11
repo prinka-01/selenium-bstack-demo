@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.bstackdemo.automation.tests.LoginTest"/>
+      <class name="com.bstackdemo.automation.tests.ProductPageTest"/>
+      <class name="com.bstackdemo.automation.tests.CartTest"/>
+      <class name="com.bstackdemo.automation.tests.CheckoutTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

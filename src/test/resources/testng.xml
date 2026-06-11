@@ -1,0 +1,17 @@
+<suite name="BSTACK Automation Suite" parallel="classes" thread-count="2">
+
+    <listeners>
+        <listener class-name="com.bstackdemo.automation.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Regression Tests">
+
+        <classes>
+            <class name="com.bstackdemo.automation.tests.LoginTest"/>
+            <class name="com.bstackdemo.automation.tests.ProductPageTest"/>
+            <class name="com.bstackdemo.automation.tests.CartTest"/>
+        </classes>
+
+    </test>
+
+</suite>

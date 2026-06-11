@@ -1,0 +1,280 @@
+2026-06-02 11:56:45,407 INFO  Test Setup Started
+2026-06-02 11:56:45,408 INFO  Launching Chrome Browser
+2026-06-02 11:56:47,839 INFO  Browser launched successfully
+2026-06-02 11:56:53,412 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 11:56:53,414 INFO  Page initialized
+2026-06-02 11:56:53,427 INFO  Verify URL Test Started
+2026-06-02 11:56:53,427 INFO  Getting current URL
+2026-06-02 11:56:53,433 INFO  Verify URL Test Passed
+2026-06-02 11:56:53,591 INFO  Sign In Test Started
+2026-06-02 11:56:53,591 INFO  Clicking Sign In
+2026-06-02 11:56:53,634 INFO  Sign In Clicked
+2026-06-02 11:56:53,763 INFO  Valid Login Test Started
+2026-06-02 11:56:53,764 INFO  Login started
+2026-06-02 11:56:53,764 INFO  Selecting username: demouser
+2026-06-02 11:56:54,093 INFO  Selecting password
+2026-06-02 11:56:54,162 INFO  Clicking Login button
+2026-06-02 11:56:54,203 INFO  Valid Login Test Passed
+2026-06-02 11:56:54,291 INFO  Closing Browser
+2026-06-02 11:56:54,390 INFO  Browser Closed
+2026-06-02 12:05:25,613 INFO  Launching Chrome Browser
+2026-06-02 12:05:25,613 INFO  Launching Chrome Browser
+2026-06-02 12:05:25,613 INFO  Launching Chrome Browser
+2026-06-02 12:05:26,575 INFO  Browser launched successfully
+2026-06-02 12:05:26,586 INFO  Browser launched successfully
+2026-06-02 12:05:26,586 INFO  Browser launched successfully
+2026-06-02 12:05:32,230 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:05:32,234 INFO  Clicking Sign In
+2026-06-02 12:05:32,961 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:05:32,961 INFO  Clicking Sign In
+2026-06-02 12:05:36,517 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:05:36,518 INFO  Clicking Sign In
+2026-06-02 12:05:36,559 INFO  Login started
+2026-06-02 12:05:36,559 INFO  Selecting username: demouser
+2026-06-02 12:05:36,589 INFO  Login started
+2026-06-02 12:05:36,589 INFO  Selecting username: demouser
+2026-06-02 12:07:09,242 INFO  Launching Chrome Browser
+2026-06-02 12:07:10,167 INFO  Browser launched successfully
+2026-06-02 12:07:15,164 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:07:15,166 INFO  Clicking Sign In
+2026-06-02 12:07:15,208 INFO  Login started
+2026-06-02 12:07:15,209 INFO  Selecting username: demouser
+2026-06-02 12:07:15,666 INFO  Selecting password
+2026-06-02 12:07:15,739 INFO  Clicking Login button
+2026-06-02 12:07:26,233 INFO  Test Setup Started
+2026-06-02 12:07:26,233 INFO  Launching Chrome Browser
+2026-06-02 12:07:26,880 INFO  Browser launched successfully
+2026-06-02 12:07:32,192 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:07:32,192 INFO  Page initialized
+2026-06-02 12:07:32,203 INFO  Verify URL Test Started
+2026-06-02 12:07:32,204 INFO  Getting current URL
+2026-06-02 12:07:32,209 INFO  Verify URL Test Passed
+2026-06-02 12:07:32,328 INFO  Sign In Test Started
+2026-06-02 12:07:32,328 INFO  Clicking Sign In
+2026-06-02 12:07:32,368 INFO  Sign In Clicked
+2026-06-02 12:07:32,504 INFO  Valid Login Test Started
+2026-06-02 12:07:32,504 INFO  Login started
+2026-06-02 12:07:32,504 INFO  Selecting username: demouser
+2026-06-02 12:07:32,796 INFO  Selecting password
+2026-06-02 12:07:32,863 INFO  Clicking Login button
+2026-06-02 12:07:32,905 INFO  Valid Login Test Passed
+2026-06-02 12:07:33,012 INFO  Closing Browser
+2026-06-02 12:07:33,114 INFO  Browser Closed
+2026-06-02 12:07:33,115 INFO  Launching Chrome Browser
+2026-06-02 12:07:33,729 INFO  Browser launched successfully
+2026-06-02 12:07:39,363 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:07:39,363 INFO  Clicking Sign In
+2026-06-02 12:07:39,404 INFO  Login started
+2026-06-02 12:07:39,406 INFO  Selecting username: demouser
+2026-06-02 12:07:39,823 INFO  Selecting password
+2026-06-02 12:07:39,888 INFO  Clicking Login button
+2026-06-02 12:07:48,604 INFO  Launching Chrome Browser
+2026-06-02 12:07:49,250 INFO  Browser launched successfully
+2026-06-02 12:07:54,527 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:07:54,527 INFO  Clicking Sign In
+2026-06-02 12:07:54,566 INFO  Login started
+2026-06-02 12:07:54,567 INFO  Selecting username: demouser
+2026-06-02 12:07:55,045 INFO  Selecting password
+2026-06-02 12:07:55,111 INFO  Clicking Login button
+2026-06-02 12:13:10,144 INFO  Launching Chrome Browser
+2026-06-02 12:13:11,057 INFO  Browser launched successfully
+2026-06-02 12:13:16,148 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:13:16,150 INFO  Clicking Sign In
+2026-06-02 12:13:16,194 INFO  Login started
+2026-06-02 12:13:16,195 INFO  Selecting username: demouser
+2026-06-02 12:13:16,643 INFO  Selecting password
+2026-06-02 12:13:16,717 INFO  Clicking Login button
+2026-06-02 12:13:27,238 INFO  Test Setup Started
+2026-06-02 12:13:27,238 INFO  Launching Chrome Browser
+2026-06-02 12:13:27,869 INFO  Browser launched successfully
+2026-06-02 12:13:33,577 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:13:33,578 INFO  Page initialized
+2026-06-02 12:13:33,589 INFO  Verify URL Test Started
+2026-06-02 12:13:33,589 INFO  Getting current URL
+2026-06-02 12:13:33,595 INFO  Verify URL Test Passed
+2026-06-02 12:13:33,735 INFO  Sign In Test Started
+2026-06-02 12:13:33,735 INFO  Clicking Sign In
+2026-06-02 12:13:33,778 INFO  Sign In Clicked
+2026-06-02 12:13:33,940 INFO  Valid Login Test Started
+2026-06-02 12:13:33,940 INFO  Login started
+2026-06-02 12:13:33,941 INFO  Selecting username: demouser
+2026-06-02 12:13:34,206 INFO  Selecting password
+2026-06-02 12:13:34,274 INFO  Clicking Login button
+2026-06-02 12:13:34,314 INFO  Valid Login Test Passed
+2026-06-02 12:13:34,432 INFO  Closing Browser
+2026-06-02 12:13:34,561 INFO  Browser Closed
+2026-06-02 12:13:34,564 INFO  Launching Chrome Browser
+2026-06-02 12:13:35,220 INFO  Browser launched successfully
+2026-06-02 12:13:40,853 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:13:40,853 INFO  Clicking Sign In
+2026-06-02 12:13:40,891 INFO  Login started
+2026-06-02 12:13:40,891 INFO  Selecting username: demouser
+2026-06-02 12:13:41,351 INFO  Selecting password
+2026-06-02 12:13:41,420 INFO  Clicking Login button
+2026-06-02 12:13:51,353 INFO  Launching Chrome Browser
+2026-06-02 12:13:52,011 INFO  Browser launched successfully
+2026-06-02 12:13:57,256 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:13:57,256 INFO  Clicking Sign In
+2026-06-02 12:13:57,294 INFO  Login started
+2026-06-02 12:13:57,294 INFO  Selecting username: demouser
+2026-06-02 12:13:57,754 INFO  Selecting password
+2026-06-02 12:13:57,817 INFO  Clicking Login button
+2026-06-02 12:19:49,581 INFO  Launching Chrome Browser
+2026-06-02 12:19:50,509 INFO  Browser launched successfully
+2026-06-02 12:19:55,821 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:19:55,824 INFO  Clicking Sign In
+2026-06-02 12:19:55,862 INFO  Login started
+2026-06-02 12:19:55,863 INFO  Selecting username: demouser
+2026-06-02 12:19:56,317 INFO  Selecting password
+2026-06-02 12:19:56,402 INFO  Clicking Login button
+2026-06-02 12:20:06,945 INFO  Test Setup Started
+2026-06-02 12:20:06,945 INFO  Launching Chrome Browser
+2026-06-02 12:20:07,577 INFO  Browser launched successfully
+2026-06-02 12:20:12,866 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:20:12,867 INFO  Page initialized
+2026-06-02 12:20:12,877 INFO  Verify URL Test Started
+2026-06-02 12:20:12,877 INFO  Getting current URL
+2026-06-02 12:20:12,883 INFO  Verify URL Test Passed
+2026-06-02 12:20:13,019 INFO  Sign In Test Started
+2026-06-02 12:20:13,019 INFO  Clicking Sign In
+2026-06-02 12:20:13,060 INFO  Sign In Clicked
+2026-06-02 12:20:13,208 INFO  Valid Login Test Started
+2026-06-02 12:20:13,208 INFO  Login started
+2026-06-02 12:20:13,208 INFO  Selecting username: demouser
+2026-06-02 12:20:13,498 INFO  Selecting password
+2026-06-02 12:20:13,573 INFO  Clicking Login button
+2026-06-02 12:20:13,610 INFO  Valid Login Test Passed
+2026-06-02 12:20:13,733 INFO  Closing Browser
+2026-06-02 12:20:13,830 INFO  Browser Closed
+2026-06-02 12:20:13,831 INFO  Launching Chrome Browser
+2026-06-02 12:20:14,476 INFO  Browser launched successfully
+2026-06-02 12:20:19,730 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:20:19,730 INFO  Clicking Sign In
+2026-06-02 12:20:19,767 INFO  Login started
+2026-06-02 12:20:19,767 INFO  Selecting username: demouser
+2026-06-02 12:20:20,216 INFO  Selecting password
+2026-06-02 12:20:20,280 INFO  Clicking Login button
+2026-06-02 12:20:30,207 INFO  Launching Chrome Browser
+2026-06-02 12:20:30,822 INFO  Browser launched successfully
+2026-06-02 12:20:36,380 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-02 12:20:36,380 INFO  Clicking Sign In
+2026-06-02 12:20:36,422 INFO  Login started
+2026-06-02 12:20:36,422 INFO  Selecting username: demouser
+2026-06-02 12:20:36,867 INFO  Selecting password
+2026-06-02 12:20:36,931 INFO  Clicking Login button
+2026-06-04 16:08:13,517 INFO  Launching Chrome Browser
+2026-06-04 16:08:16,019 INFO  Browser launched successfully
+2026-06-04 16:08:21,542 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:08:21,544 INFO  Clicking Sign In
+2026-06-04 16:08:21,584 INFO  Login started
+2026-06-04 16:08:21,584 INFO  Selecting username: demouser
+2026-06-04 16:08:22,046 INFO  Selecting password
+2026-06-04 16:08:22,129 INFO  Clicking Login button
+2026-06-04 16:08:31,325 INFO  Test Setup Started
+2026-06-04 16:08:31,326 INFO  Launching Chrome Browser
+2026-06-04 16:08:31,950 INFO  Browser launched successfully
+2026-06-04 16:08:39,184 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:08:39,184 INFO  Page initialized
+2026-06-04 16:08:39,196 INFO  Verify URL Test Started
+2026-06-04 16:08:39,196 INFO  Getting current URL
+2026-06-04 16:08:39,202 INFO  Verify URL Test Passed
+2026-06-04 16:08:39,341 INFO  Sign In Test Started
+2026-06-04 16:08:39,342 INFO  Clicking Sign In
+2026-06-04 16:08:39,381 INFO  Sign In Clicked
+2026-06-04 16:08:39,501 INFO  Valid Login Test Started
+2026-06-04 16:08:39,502 INFO  Login started
+2026-06-04 16:08:39,502 INFO  Selecting username: demouser
+2026-06-04 16:08:39,826 INFO  Selecting password
+2026-06-04 16:08:39,890 INFO  Clicking Login button
+2026-06-04 16:08:39,926 INFO  Valid Login Test Passed
+2026-06-04 16:08:40,033 INFO  Login started
+2026-06-04 16:08:40,034 INFO  Selecting username: invalid_user1
+2026-06-04 16:08:50,188 INFO  Login started
+2026-06-04 16:08:50,189 INFO  Selecting username: invalid_user1
+2026-06-04 16:09:00,332 INFO  Login started
+2026-06-04 16:09:00,333 INFO  Selecting username: invalid_user1
+2026-06-04 16:09:10,571 INFO  Login started
+2026-06-04 16:09:10,572 INFO  Selecting username: invalid_user2
+2026-06-04 16:09:20,722 INFO  Login started
+2026-06-04 16:09:20,722 INFO  Selecting username: invalid_user2
+2026-06-04 16:09:30,867 INFO  Login started
+2026-06-04 16:09:30,867 INFO  Selecting username: invalid_user2
+2026-06-04 16:09:41,116 INFO  Login started
+2026-06-04 16:09:41,116 INFO  Selecting username: userlocked
+2026-06-04 16:09:51,245 INFO  Login started
+2026-06-04 16:09:51,245 INFO  Selecting username: userlocked
+2026-06-04 16:10:01,410 INFO  Login started
+2026-06-04 16:10:01,410 INFO  Selecting username: userlocked
+2026-06-04 16:10:11,662 INFO  Login started
+2026-06-04 16:10:11,662 INFO  Selecting username: testuser
+2026-06-04 16:10:21,812 INFO  Login started
+2026-06-04 16:10:21,812 INFO  Selecting username: testuser
+2026-06-04 16:10:32,000 INFO  Login started
+2026-06-04 16:10:32,000 INFO  Selecting username: testuser
+2026-06-04 16:10:42,236 INFO  Login started
+2026-06-04 16:10:42,236 INFO  Selecting username: dummyuser
+2026-06-04 16:10:48,508 INFO  Launching Chrome Browser
+2026-06-04 16:10:49,449 INFO  Browser launched successfully
+2026-06-04 16:10:52,378 INFO  Login started
+2026-06-04 16:10:52,378 INFO  Selecting username: dummyuser
+2026-06-04 16:10:54,895 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:10:54,897 INFO  Clicking Sign In
+2026-06-04 16:10:54,939 INFO  Login started
+2026-06-04 16:10:54,939 INFO  Selecting username: demouser
+2026-06-04 16:10:55,386 INFO  Selecting password
+2026-06-04 16:10:55,453 INFO  Clicking Login button
+2026-06-04 16:11:02,488 INFO  Login started
+2026-06-04 16:11:02,489 INFO  Selecting username: dummyuser
+2026-06-04 16:11:05,997 INFO  Test Setup Started
+2026-06-04 16:11:05,997 INFO  Launching Chrome Browser
+2026-06-04 16:11:06,657 INFO  Browser launched successfully
+2026-06-04 16:11:12,275 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:11:12,275 INFO  Page initialized
+2026-06-04 16:11:12,285 INFO  Verify URL Test Started
+2026-06-04 16:11:12,285 INFO  Getting current URL
+2026-06-04 16:11:12,291 INFO  Verify URL Test Passed
+2026-06-04 16:11:12,421 INFO  Sign In Test Started
+2026-06-04 16:11:12,421 INFO  Clicking Sign In
+2026-06-04 16:11:12,464 INFO  Sign In Clicked
+2026-06-04 16:11:12,576 INFO  Valid Login Test Started
+2026-06-04 16:11:12,576 INFO  Login started
+2026-06-04 16:11:12,576 INFO  Selecting username: demouser
+2026-06-04 16:11:12,736 INFO  Closing Browser
+2026-06-04 16:11:12,861 INFO  Browser Closed
+2026-06-04 16:11:12,862 INFO  Launching Chrome Browser
+2026-06-04 16:11:12,925 INFO  Selecting password
+2026-06-04 16:11:12,998 INFO  Clicking Login button
+2026-06-04 16:11:13,043 INFO  Valid Login Test Passed
+2026-06-04 16:11:13,144 INFO  Closing Browser
+2026-06-04 16:11:13,241 INFO  Browser Closed
+2026-06-04 16:11:13,243 INFO  Launching Chrome Browser
+2026-06-04 16:11:13,528 INFO  Browser launched successfully
+2026-06-04 16:11:13,873 INFO  Browser launched successfully
+2026-06-04 16:11:18,931 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:11:18,931 INFO  Clicking Sign In
+2026-06-04 16:11:18,979 INFO  Login started
+2026-06-04 16:11:18,979 INFO  Selecting username: demouser
+2026-06-04 16:11:19,276 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:11:19,276 INFO  Clicking Sign In
+2026-06-04 16:11:19,315 INFO  Login started
+2026-06-04 16:11:19,315 INFO  Selecting username: demouser
+2026-06-04 16:11:19,460 INFO  Selecting password
+2026-06-04 16:11:19,540 INFO  Clicking Login button
+2026-06-04 16:11:19,790 INFO  Selecting password
+2026-06-04 16:11:19,857 INFO  Clicking Login button
+2026-06-04 16:11:28,425 INFO  Launching Chrome Browser
+2026-06-04 16:11:29,060 INFO  Browser launched successfully
+2026-06-04 16:11:29,697 INFO  Launching Chrome Browser
+2026-06-04 16:11:30,328 INFO  Browser launched successfully
+2026-06-04 16:11:34,310 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:11:34,310 INFO  Clicking Sign In
+2026-06-04 16:11:34,359 INFO  Login started
+2026-06-04 16:11:34,359 INFO  Selecting username: demouser
+2026-06-04 16:11:34,850 INFO  Selecting password
+2026-06-04 16:11:34,929 INFO  Clicking Login button
+2026-06-04 16:11:35,265 INFO  Navigated to URL : https://bstackdemo.com/
+2026-06-04 16:11:35,265 INFO  Clicking Sign In
+2026-06-04 16:11:35,317 INFO  Login started
+2026-06-04 16:11:35,317 INFO  Selecting username: demouser
+2026-06-04 16:11:35,765 INFO  Selecting password
+2026-06-04 16:11:35,829 INFO  Clicking Login button
