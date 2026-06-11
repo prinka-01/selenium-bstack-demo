@@ -163,7 +163,7 @@ selenium-bstack-demo/
 Plugins:
 - Compiler plugin
 - SureFire plugin
-```bash --Goals
+  bash --Goals
  - mvn clean 
  - mvn test
  - mvn install
