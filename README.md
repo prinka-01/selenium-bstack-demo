@@ -159,7 +159,7 @@ selenium-bstack-demo/
 ```
 ## ▶️ 10. Execution
 
-## Using Maven:
+### Using Maven:
 Plugins:
 - Compiler plugin
 - SureFire plugin
@@ -167,7 +167,7 @@ Plugins:
  - mvn clean 
  - mvn test
  - mvn install
-## Using TestNG:
+### Using TestNG:
 - Run `testng.xml` from IDE or via Maven Surefire plugin
 
 ### Using Jenkins
