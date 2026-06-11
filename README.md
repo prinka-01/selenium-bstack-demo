@@ -168,8 +168,7 @@ Plugins:
  - mvn test
  - mvn install
 ## Using TestNG:
-
-Run `testng.xml` from IDE or via Maven Surefire plugin
+- Run `testng.xml` from IDE or via Maven Surefire plugin
 
 ### Using Jenkins
 
